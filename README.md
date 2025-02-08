@@ -22,9 +22,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashng7&show_icons=true&theme=radical)  
 
 ## 📫 Let's Connect  
-🔗 [LinkedIn](https://www.linkedin.com/in/yashng7)  
-🌎 [Portfolio](https://your-portfolio.com)  
-💬 Reach me at: yash@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/yashwant-gawande-01012b271/)  
+🌎 [Portfolio](https://www.yashwantgawande.com/)  
+💬 Reach me at: gawandeyashwant7@gmail.com
 
 ---
 
