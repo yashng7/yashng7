@@ -52,7 +52,7 @@
 
 ## 📫 Let's Connect  
 🔗 [Portfolio](https://yashwantgawande.com/)  
-💼 [LinkedIn](https://www.linkedin.com/in/yashng7)  
+💼 [LinkedIn](https://www.linkedin.com/in/yashwant-gawande-01012b271/)  
 📩 Email: [gawandeyashwant7@gmail.com](mailto:gawandeyashwant7@gmail.com)  
 
 ---
