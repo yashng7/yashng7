@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋 I'm Yash  
 
-<!--
-**yashng7/yashng7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | 🖥️ Open-Source Enthusiast | ⚡ AWS & Microservices  
 
-Here are some ideas to get you started:
+## 🔥 About Me
+- 💻 Passionate about **Frontend (UI), Full-Stack, and Software Engineering**.  
+- 🔭 Currently exploring **AWS, Serverless Architecture, and Microservices**.  
+- 📚 Love solving **DSA problems** and optimizing performance.  
+- 🚀 Working on **Synch – a SaaS notification service via Discord bot**.  
+- 🛠️ Open-source contributor & always learning new tech!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
+
+## 📈 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashng7&show_icons=true&theme=radical)  
+
+## 📫 Let's Connect  
+🔗 [LinkedIn](https://www.linkedin.com/in/yashng7)  
+🌎 [Portfolio](https://your-portfolio.com)  
+💬 Reach me at: yash@example.com  
+
+---
+
+⭐️ _Follow me on [GitHub](https://github.com/yashng7)_  
