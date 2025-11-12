@@ -1,60 +1,79 @@
-# Hi there! 👋 I'm Yashwant Gawande  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=808080&width=520&lines=Hi+there!+%F0%9F%91%8B+I'm+Yashwant+Gawande.)](https://git.io/typing-svg)
 
-🚀 Software Engineer | Frontend & Backend | Performance Optimization  
+## Summary
 
-## 🔥 About Me  
-- 💻 Software Engineer specializing in **React.js, Next.js, and TypeScript**.  
-- 🚀 Experienced in **building scalable, high-performance web applications**.  
-- 🔗 Strong background in **backend integration with Node.js, Express.js, and PostgreSQL**.  
-- 🛠️ Passionate about **modern web technologies, cross-browser optimization, and state management**.  
-- 🔍 Always exploring **cutting-edge SaaS solutions & AI-powered applications**.  
+Software Engineer building scalable web applications and backend systems with React, Next.js, Go and Python. Experienced in SaaS platforms, AI integration and containerized microservices.
 
-## 🏆 Featured Projects  
-### [Synch](https://synch-sass.vercel.app/) | Real-time SaaS Insights  
-🚀 **Next.js + TypeScript SaaS Platform** with **99.9% uptime**  
-🔗 Integrated **Stripe** & **Clerk** for secure payments & authentication  
-📈 Optimized notification system, increasing **user engagement by 30%**  
+## Projects
 
-### [Resume AI](https://ai-resume-o92e.vercel.app/) | AI-Powered Resume Builder  
-🤖 Built **full-stack AI-powered platform** using **React.js, Node.js & Gemini-AI API**  
-⚡ Designed **real-time multi-step forms**, boosting completion rate **by 40%**  
-📄 Created **dynamic resume templates & secure backend storage**  
+<div align="left">
+<table>
+<tr>
+<td width="50%">
 
-### [KeyLab](https://keylab-lake.vercel.app/) | E-commerce for Computer Peripherals  
-🛒 Developed **responsive front end using React.js**  
-💳 Integrated **Stripe & Clerk** for **secure transactions & authentication**  
-📊 Implemented **real-time analytics**, increasing conversion rates **by 25%**  
+### [Synch](https://synch-sass.vercel.app/)
+Real-time SaaS platform with Stripe integration
 
-## 🛠️ Tech Stack  
-### **Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)  
+</td>
+<td width="50%">
 
-### **Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
+### [Resume AI](https://ai-resume-o92e.vercel.app/)
+AI-powered resume builder using Gemini API
 
-### **DevOps & Tools**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws)  
-![CI/CD](https://img.shields.io/badge/-CI/CD-24292F?style=flat&logo=github-actions)  
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## 📜 Certifications  
-✅ **[Front End Development Libraries](https://www.freecodecamp.org/certification/YashwantGawande/front-end-development-libraries) - freeCodeCamp**  
-✅ **[Back End Development & APIs](https://www.freecodecamp.org/certification/YashwantGawande/back-end-development-and-apis) - freeCodeCamp**  
+### [KeyLab](https://keylab-lake.vercel.app/)
+E-commerce platform for computer peripherals
 
-## 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashng7&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashng7&layout=compact&theme=radical)  
+</td>
+<td width="50%">
 
-## 📫 Let's Connect  
-🔗 [Portfolio](https://yashwantgawande.com/)  
-💼 [LinkedIn](https://www.linkedin.com/in/yashwant-gawande-01012b271/)  
-📩 Email: [gawandeyashwant7@gmail.com](mailto:gawandeyashwant7@gmail.com)  
+### [Modmail Plus](https://github.com/yashng7/modmail-plus)
+Discord bot in Go with mod tickets and PostgreSQL
 
----
+</td>
+</tr>
+</table>
+</div>
 
-⭐️ _Follow me on [GitHub](https://github.com/yashng7)_  
+## Tech
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+
+## Certifications
+
+<div align="left">
+<table>
+<tr>
+<td width="50%">
+
+### [Front End Development Libraries](https://www.freecodecamp.org/certification/YashwantGawande/front-end-development-libraries)
+freeCodeCamp
+
+</td>
+<td width="50%">
+
+### [Back End Development & APIs](https://www.freecodecamp.org/certification/YashwantGawande/back-end-development-and-apis)
+freeCodeCamp
+
+</td>
+</tr>
+</table>
+</div>
+
+## Connect
+
+[Portfolio](https://yashwantgawande.com/) · [LinkedIn](https://www.linkedin.com/in/yashwant-gawande-01012b271/) · [Email](mailto:gawandeyashwant7@gmail.com)
