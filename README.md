@@ -11,28 +11,40 @@ Software Engineer building scalable web applications and backend systems with Re
 <tr>
 <td width="50%">
 
-### [Synch](https://synch-sass.vercel.app/)
-Real-time SaaS platform with Stripe integration
+### [ZEROGRID](https://zero-grid-navy.vercel.app/)
+Cybersecurity Issue Management Platform
 
 </td>
+
 <td width="50%">
 
 ### [Resume AI](https://ai-resume-o92e.vercel.app/)
 AI-powered resume builder using Gemini API
 
 </td>
+
+</tr>
+<tr>
+<td width="50%">
+
+### [Synch](https://synch-sass.vercel.app/)
+Real-time SaaS platform with Stripe integration
+
+</td>
+
+<td width="50%">
+
+### [Modmail Plus](https://github.com/yashng7/modmail-plus)
+Discord bot in Go with mod tickets and PostgreSQL
+
+</td>
+
 </tr>
 <tr>
 <td width="50%">
 
 ### [KeyLab](https://keylab-lake.vercel.app/)
 E-commerce platform for computer peripherals
-
-</td>
-<td width="50%">
-
-### [Modmail Plus](https://github.com/yashng7/modmail-plus)
-Discord bot in Go with mod tickets and PostgreSQL
 
 </td>
 </tr>
