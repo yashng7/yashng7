@@ -47,6 +47,12 @@ Discord bot in Go with mod tickets and PostgreSQL
 E-commerce platform for computer peripherals
 
 </td>
+<td width="50%">
+
+### [Credit Approval System](https://github.com/yashng7/credit-approval-system)
+Credit approval system implementation
+
+</td>
 </tr>
 </table>
 </div>
