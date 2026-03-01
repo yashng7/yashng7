@@ -11,7 +11,7 @@ Software Engineer building scalable web applications and backend systems with Re
 <tr>
 <td width="50%">
 
-### [ZEROGRID](https://zero-grid-navy.vercel.app/)
+### [ZEROGRID](https://zero-grid.by.yashwantgawande.com/)
 Cybersecurity Issue Management Platform
 
 </td>
