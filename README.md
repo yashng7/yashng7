@@ -2,7 +2,7 @@
 <!-- 00 // HEADER: MINIMALIST ETCHED STONE LOTUS RELIEF (TRANSPARENT SVG)      -->
 <!-- ========================================================================= -->
 <a href="https://yashwantgawande.com/">
-  <img src="./assets/header.svg" width="100%" alt="Yashwant Gawande — Software Engineer" />
+  <img src="./assets/header.svg?v=2" width="100%" alt="Yashwant Gawande — Software Engineer" />
 </a>
 
 <br/>
