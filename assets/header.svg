@@ -27,30 +27,15 @@
     <g id="innerMinimalPetal">
       <path d="M 0,-10 C 7,-30 12,-50 0,-68 C -12,-50 -7,-30 0,-10 Z" stroke="#71717A" stroke-width="0.9" fill="none"/>
     </g>
-
-    <!-- Minimalist Carved Stone Flower Node -->
-    <g id="carvedFlower">
-      <circle cx="0" cy="0" r="10" stroke="#3F3F46" stroke-width="0.8"/>
-      <path d="M 0,-9 C 2.5,-3 2.5,-3 9,0 C 2.5,3 2.5,3 0,9 C -2.5,3 -2.5,3 -9,0 C -2.5,-3 -2.5,-3 0,-9 Z" stroke="#52525B" stroke-width="0.9" fill="none"/>
-      <circle cx="0" cy="0" r="1.5" fill="#71717A"/>
-    </g>
   </defs>
 
   <!-- ======================================================================= -->
   <!-- BACKGROUND STONE ETCHING (RIGHT SIDE, MASKED & SUBTLE)                  -->
   <!-- ======================================================================= -->
   <g mask="url(#carvingMask)">
-    <!-- Subtle Temple Grid / Architectural Guidelines -->
-    <line x1="480" y1="0" x2="480" y2="190" stroke="#27272A" stroke-width="0.75" stroke-dasharray="3 3"/>
+    <!-- Subtle Architectural Guidelines -->
     <line x1="720" y1="0" x2="720" y2="190" stroke="#27272A" stroke-width="0.75" stroke-dasharray="3 3"/>
-    <line x1="420" y1="95" x2="880" y2="95" stroke="#27272A" stroke-width="0.75" stroke-dasharray="3 3"/>
-
-    <!-- Minimalist Scrolling Stone Floral Vine (Left of Mandala) -->
-    <path d="M 450,95 C 485,45 535,45 570,95 C 605,145 655,145 690,95" stroke="#3F3F46" stroke-width="1.1" fill="none"/>
-    <path d="M 472,72 C 482,52 508,56 502,76 C 498,86 484,84 486,74" stroke="#3F3F46" stroke-width="0.85" fill="none"/>
-    <path d="M 592,118 C 602,138 628,134 622,114 C 618,104 604,106 606,116" stroke="#3F3F46" stroke-width="0.85" fill="none"/>
-    <use href="#carvedFlower" x="512" y="82"/>
-    <use href="#carvedFlower" x="632" y="108"/>
+    <line x1="560" y1="95" x2="880" y2="95" stroke="#27272A" stroke-width="0.75" stroke-dasharray="3 3"/>
 
     <!-- Slow-Rotating Etched Stone Lotus Relief at (720, 95) -->
     <g transform="translate(720, 95)">
@@ -112,17 +97,10 @@
     Building calm, scalable interfaces backed by resilient Go &amp; Python engines.
   </text>
 
-  <!-- Minimal Etched Horizon Line with Carved Lotus Accent -->
+  <!-- Static Minimal Etched Horizon Line (No moving dot) -->
   <g transform="translate(4, 142)">
-    <line x1="0" y1="0" x2="620" y2="0" stroke="url(#lineFade)" stroke-width="1"/>
-    <!-- Small carved stone diamond/lotus mark at start -->
-    <polygon points="0,-4 4,0 0,4 -4,0" fill="#71717A"/>
-    <circle cx="14" cy="0" r="1.5" fill="#52525B"/>
-    <!-- Subtle traveling pulse along the etched line -->
-    <circle cx="0" cy="0" r="2" fill="#A1A1AA">
-      <animate attributeName="cx" values="14;420;14" dur="12s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.8;0.1;0.8" dur="12s" repeatCount="indefinite"/>
-    </circle>
+    <line x1="0" y1="0" x2="540" y2="0" stroke="url(#lineFade)" stroke-width="1"/>
+    <polygon points="0,-3.5 3.5,0 0,3.5 -3.5,0" fill="#71717A"/>
   </g>
 
   <!-- Stack Summary Caption -->
