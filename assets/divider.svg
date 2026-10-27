@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 28" width="100%" fill="none">
+  <defs>
+    <linearGradient id="leftLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#27272A" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#3F3F46" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#52525B" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="rightLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#52525B" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#3F3F46" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#27272A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Left & Right Hairlines -->
+  <line x1="0" y1="14" x2="404" y2="14" stroke="url(#leftLine)" stroke-width="1"/>
+  <line x1="476" y1="14" x2="880" y2="14" stroke="url(#rightLine)" stroke-width="1"/>
+
+  <!-- Minimalist Etched Stone Lotus Motif (Center) -->
+  <g transform="translate(440, 14)">
+    <!-- Side flanking stone buds -->
+    <circle cx="-24" cy="0" r="1.5" fill="#52525B"/>
+    <path d="M -18,0 L -13,-4 L -8,0 L -13,4 Z" stroke="#52525B" stroke-width="0.9" fill="none"/>
+    <path d="M 18,0 L 13,-4 L 8,0 L 13,4 Z" stroke="#52525B" stroke-width="0.9" fill="none"/>
+    <circle cx="24" cy="0" r="1.5" fill="#52525B"/>
+
+    <!-- Center 4-Petal Carved Stone Flower -->
+    <path d="M 0,-10 C 3,-3.5 3.5,-3 10,0 C 3.5,3 3,3.5 0,10 C -3,3.5 -3.5,3 -10,0 C -3.5,-3 -3,-3.5 0,-10 Z"
+          stroke="#71717A" stroke-width="1" fill="none"/>
+    <circle cx="0" cy="0" r="2" fill="#71717A"/>
+  </g>
+</svg>

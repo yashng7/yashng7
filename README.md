@@ -1,97 +1,110 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=808080&width=520&lines=Hi+there!+%F0%9F%91%8B+I'm+Yashwant+Gawande.)](https://git.io/typing-svg)
+<!-- ========================================================================= -->
+<!-- 00 // HEADER: MINIMALIST ETCHED STONE LOTUS RELIEF (TRANSPARENT SVG)      -->
+<!-- ========================================================================= -->
+<a href="https://yashwantgawande.com/">
+  <img src="./assets/header.svg" width="100%" alt="Yashwant Gawande — Software Engineer" />
+</a>
 
-## Summary
+<br/>
 
-Software Engineer building scalable web applications and backend systems with React, Next.js, Go and Python. Experienced in SaaS platforms, AI integration and containerized microservices.
+<p align="left">
+  <a href="https://yashwantgawande.com/"><img src="https://img.shields.io/badge/Portfolio-yashwantgawande.com-18181b?style=flat-square&labelColor=27272a&color=18181b" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/yashwant-gawande-01012b271/"><img src="https://img.shields.io/badge/LinkedIn-yashwant--gawande-18181b?style=flat-square&labelColor=27272a&color=18181b" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:gawandeyashwant7@gmail.com"><img src="https://img.shields.io/badge/Email-gawandeyashwant7%40gmail.com-18181b?style=flat-square&labelColor=27272a&color=18181b" alt="Email" /></a>
+</p>
 
-## Projects
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-<div align="left">
-<table>
-<tr>
-<td width="50%">
+<!-- ========================================================================= -->
+<!-- 01 // SELECTED WORKS: STRUCTURED FROM SURFACE TO CORE ENGINE              -->
+<!-- ========================================================================= -->
+<table width="100%">
+  <tr>
+    <td colspan="2">
+      <sub><code>01 // INTERFACE &amp; AI</code> — <i>Product experience and intelligent workflows</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://ai-resume-o92e.vercel.app/">Resume AI</a></b> &nbsp;<sub><code>LIVE ↗</code></sub><br/>
+      <sub>AI-assisted resume builder using the Gemini API to turn career notes into structured documents.</sub><br/><br/>
+      <sub><code>Next.js</code> · <code>Gemini API</code> · <code>TypeScript</code></sub>
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://keylab-lake.vercel.app/">KeyLab</a></b> &nbsp;<sub><code>LIVE ↗</code></sub><br/>
+      <sub>Minimalist e-commerce storefront designed for custom mechanical keyboards and peripherals.</sub><br/><br/>
+      <sub><code>React</code> · <code>JavaScript</code> · <code>E-Commerce</code></sub>
+      <br/><br/>
+    </td>
+  </tr>
 
-### [ZEROGRID](https://zero-grid.by.yashwantgawande.com/)
-Cybersecurity Issue Management Platform
+  <tr>
+    <td colspan="2">
+      <sub><code>02 // SAAS PLATFORMS</code> — <i>Multi-tenant state, security triage, and billing</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://zero-grid.by.yashwantgawande.com/">ZEROGRID</a></b> &nbsp;<sub><code>LIVE ↗</code></sub><br/>
+      <sub>Cybersecurity issue management platform for structured vulnerability tracking and triage.</sub><br/><br/>
+      <sub><code>SaaS</code> · <code>Security</code> · <code>Full-Stack</code></sub>
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://synch-sass.vercel.app/">Synch</a></b> &nbsp;<sub><code>LIVE ↗</code></sub><br/>
+      <sub>Real-time collaborative SaaS platform integrated with automated Stripe subscription billing.</sub><br/><br/>
+      <sub><code>React</code> · <code>Node.js</code> · <code>Stripe</code></sub>
+      <br/><br/>
+    </td>
+  </tr>
 
-</td>
-
-<td width="50%">
-
-### [Resume AI](https://ai-resume-o92e.vercel.app/)
-AI-powered resume builder using Gemini API
-
-</td>
-
-</tr>
-<tr>
-<td width="50%">
-
-### [Synch](https://synch-sass.vercel.app/)
-Real-time SaaS platform with Stripe integration
-
-</td>
-
-<td width="50%">
-
-### [Modmail Plus](https://github.com/yashng7/modmail-plus)
-Discord bot in Go with mod tickets and PostgreSQL
-
-</td>
-
-</tr>
-<tr>
-<td width="50%">
-
-### [KeyLab](https://keylab-lake.vercel.app/)
-E-commerce platform for computer peripherals
-
-</td>
-<td width="50%">
-
-### [Credit Approval System](https://github.com/yashng7/credit-approval-system)
-Credit approval system implementation
-
-</td>
-</tr>
+  <tr>
+    <td colspan="2">
+      <sub><code>03 // CORE ENGINE &amp; BACKEND</code> — <i>Concurrency, relational data, and microservices</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://github.com/yashng7/modmail-plus">Modmail Plus</a></b> &nbsp;<sub><code>REPO ↗</code></sub><br/>
+      <sub>Concurrent Discord ticket engine written in Go with persistent state in PostgreSQL.</sub><br/><br/>
+      <sub><code>Go</code> · <code>PostgreSQL</code> · <code>Concurrency</code></sub>
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://github.com/yashng7/credit-approval-system">Credit Approval System</a></b> &nbsp;<sub><code>REPO ↗</code></sub><br/>
+      <sub>Containerized backend service for evaluating credit risk and automating loan eligibility.</sub><br/><br/>
+      <sub><code>Python</code> · <code>Django</code> · <code>Docker</code></sub>
+      <br/><br/>
+    </td>
+  </tr>
 </table>
-</div>
 
-## Tech
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-
-## Certifications
-
-<div align="left">
-<table>
-<tr>
-<td width="50%">
-
-### [Front End Development Libraries](https://www.freecodecamp.org/certification/YashwantGawande/front-end-development-libraries)
-freeCodeCamp
-
-</td>
-<td width="50%">
-
-### [Back End Development & APIs](https://www.freecodecamp.org/certification/YashwantGawande/back-end-development-and-apis)
-freeCodeCamp
-
-</td>
-</tr>
+<!-- ========================================================================= -->
+<!-- 02 // ARCHITECTURE & CREDENTIALS                                          -->
+<!-- ========================================================================= -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <sub><code>04 // STACK BY LAYER</code></sub><br/><br/>
+      <sub><b>Interface:</b> &nbsp;<code>React</code> · <code>Next.js</code> · <code>TypeScript</code> · <code>JavaScript</code></sub><br/>
+      <sub><b>Backend:</b> &nbsp;&nbsp;<code>Go</code> · <code>Python</code> · <code>Django</code> · <code>Node.js</code></sub><br/>
+      <sub><b>Systems:</b> &nbsp;&nbsp;<code>PostgreSQL</code> · <code>Docker</code> · <code>AWS</code></sub>
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <sub><code>05 // CERTIFICATIONS</code></sub><br/><br/>
+      <sub><a href="https://www.freecodecamp.org/certification/YashwantGawande/front-end-development-libraries"><b>Front End Development Libraries</b></a> — freeCodeCamp <code>↗</code></sub><br/>
+      <sub><a href="https://www.freecodecamp.org/certification/YashwantGawande/back-end-development-and-apis"><b>Back End Development &amp; APIs</b></a> — freeCodeCamp <code>↗</code></sub>
+      <br/><br/>
+    </td>
+  </tr>
 </table>
-</div>
-
-## Connect
-
-[Portfolio](https://yashwantgawande.com/) · [LinkedIn](https://www.linkedin.com/in/yashwant-gawande-01012b271/) · [Email](mailto:gawandeyashwant7@gmail.com)
